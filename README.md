@@ -2,7 +2,7 @@
 
 ⚠ **Todos los códigos subidos a este repositorio han sido creados por *dkszdp*.** ⚠
 
-· *A día 30 de Septiembre de 2022, todos los códigos siguen en desarrollo.*
+· *A día 7 de Octubre de 2022, todos los códigos siguen en desarrollo.*
 
 
 ## 👨‍🏫 Explicación
